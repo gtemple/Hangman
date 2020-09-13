@@ -1,0 +1,7 @@
+--- !ruby/object:Game
+dictionary: ''
+incorrect:
+- e
+attempts: 5
+solution: guard
+hidden_solution: __a__

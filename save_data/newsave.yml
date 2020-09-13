@@ -1,0 +1,8 @@
+--- !ruby/object:Game
+dictionary: ''
+incorrect:
+- s
+- t
+attempts: 4
+solution: palomar
+hidden_solution: _a___a
